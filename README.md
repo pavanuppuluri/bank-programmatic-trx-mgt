@@ -1,2 +1,2 @@
 # bank-programmatic-trx-mgt
-Bank application - Programmatic Transaction Management
+Bank Application - Programmatic Transaction Management
